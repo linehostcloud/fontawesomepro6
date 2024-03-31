@@ -46,7 +46,7 @@ Para integrar ícones do Font Awesome Pro em seus projetos da web, siga estas et
 
 Certifique-se de verificar a licença do Font Awesome Pro antes de usar seus ícones em seus projetos.
 
-<div style="text-align: left;"><a href="https://github.com/eliyantosarage/font-awesome-pro/blob/main/LICENSE" target="_blank"><img alt="LICENSE" src="https://img.shields.io/github/license/eliyantosarage/font-awesome-pro"></a></div>
+<div style="text-align: left;"><a href="https://github.com/linehostcloud/fontawesomepro6/blob/main/LICENSE.txt" target="_blank"><img alt="LICENSE" src="https://img.shields.io/github/license/eliyantosarage/font-awesome-pro"></a></div>
 
 ### Log de alterações v6.5.1 ( lançado em 30 de novembro de 2023 )
 
