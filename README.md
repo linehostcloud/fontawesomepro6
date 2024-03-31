@@ -2,9 +2,11 @@
 
 Font Awesome Pro é uma coleção extensa e diversificada de ícones projetados para uso em desenvolvimento web e aplicativos de desktop. Esta versão, v6.5.1, oferece uma ampla gama de ícones de alta qualidade que podem aprimorar a estética e a funcionalidade de seus projetos.
 
+<div align="center">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</div>
 
 ### Características principais
 
