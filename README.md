@@ -53,7 +53,7 @@ Certifique-se de verificar a licença do Font Awesome Pro antes de usar seus íc
 ---
 
 ```markdown
-# Mudado
+# Atualizado
 
 -   Atualizados os ícones das marcas reddit, reddit-alien e square-reddit
 
